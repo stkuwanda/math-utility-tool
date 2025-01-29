@@ -6,6 +6,10 @@ describe('Math Utilities Test Suite: add', () => {
 	it('Should add two integers', () => {
 		assert.strictEqual(add(2, 5), 7);
 	});
+
+	it("Should throw an error if we don't provide a valid number", () => {
+		assert.throws(() => add('1', 2), /^Error: Please provide a valid number.$/);
+	});
 });
 
 describe('Math Utilities Test Suite: multiply', () => {
