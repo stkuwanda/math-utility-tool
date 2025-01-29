@@ -1,0 +1,30 @@
+{
+  "name": "math-utility-tool",
+  "version": "0.1.0",
+  "description": "Math utility tools to add or multiply 2 integer inputs.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test node_test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stkuwanda/math-utility-tool.git"
+  },
+  "keywords": [
+    "addition",
+    "summation",
+    "multiply",
+    "multiplication",
+    "add",
+    "maths",
+    "math",
+    "arithmetic"
+  ],
+  "author": "Simbarashe Tanaka Kuwanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stkuwanda/math-utility-tool/issues"
+  },
+  "homepage": "https://github.com/stkuwanda/math-utility-tool#readme"
+}
