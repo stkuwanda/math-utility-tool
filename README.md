@@ -1,2 +1,2 @@
-# math-utility-tool
-Project provides addition and multiplication utility function. This project is meant to review testing features and building ESM modules.
+# Math Utility Tool
+Project provides addition and multiplication utility functions. This project is meant to review NodeJs core testing APIs and building ESM modules.
