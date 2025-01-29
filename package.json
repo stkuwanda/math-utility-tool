@@ -1,11 +1,11 @@
 {
-  "name": "math-utility-tool",
+  "name": "@skuwanda/math-utility-tool",
   "version": "0.1.0",
   "description": "Math utility tools to add or multiply 2 integer inputs.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node --test node_test/"
+    "test": "node --test node_test/index.test.js"
   },
   "repository": {
     "type": "git",
