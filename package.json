@@ -6,7 +6,9 @@
   "type": "module",
   "scripts": {
     "test": "node --test node_test/index.test.js",
-    "jest-test": "jest"
+    "test:coverage": "node --test --experimental-test-coverage node_test/index.test.js",
+    "jest-test": "jest",
+    "jest-test:coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
